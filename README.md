@@ -1,6 +1,6 @@
 ## ZnH2: Augmenting ZNS-based Storage System with Host-Managed Heterogeneous Zones (ICCAD'24)
 
-This repo holds the source code of this paper, incorporating two parts: FEMU and ZenFS.
+This repository contains the source code of our paper, incorporating two parts: FEMU and ZenFS.
 Please refer to their original repos for detailed installation guides.
 For FEMU, only the modified files (in hw/femu/) are uploaded and they are developed based on [ad786ad](https://github.com/MoatLab/FEMU/commit/ad786ad152e6113057799f2d3edc0ef3295423bf).
 
